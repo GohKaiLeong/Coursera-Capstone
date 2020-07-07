@@ -1,10 +1,6 @@
-# Coursera Capstone
-This repository is created as a requirement for the IBM Data Science Professional Certificate Capstone Project.
+# Coursera Capstone Projects
+This repository is created for the various capstone projects on Coursera
 
-The report can be found here: 
+The history of completed capstone projects:
 
-https://www.linkedin.com/posts/gohkaileong_ibms-applied-data-science-capstone-project-activity-6682511886098980864-zUhX
-
-The blogpost presentation can be found here: 
-
-https://www.linkedin.com/pulse/analysis-seoul-districts-foodies-kai-leong-kl-goh/
+- Applied Data Science Capstone (IBM Data Science Professional Certificate, completed on 27 June 2020)
