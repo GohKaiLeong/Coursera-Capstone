@@ -1,5 +1,5 @@
-# IBM Data Science's Applied Data Science Capstone Capstone
-This repository is created as a requirement for the IBM Data Science Professional Certificate Capstone Project.
+# IBM Data Science's Applied Data Science Capstone
+This repository is created as a requirement for the Applied Data Science Capstone project.
 
 The report can be found here: 
 
