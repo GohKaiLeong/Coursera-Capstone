@@ -1,5 +1,5 @@
 # Coursera Capstone Projects
-This repository is created for the various capstone projects on Coursera
+This repository contains the completed capstone projects on Coursera
 
 The history of completed capstone projects:
 
